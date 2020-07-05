@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@color/color9"
+    android:paddingTop="20dp"
+    tools:context=".Category">
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/space3"
+
+
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/img"
+        android:background="@drawable/climatechange3"
+android:layout_below="@id/space3"
+
+
+android:text="CLIMATE CHANGE"
+        android:textSize="40dp"
+android:textColor="#000"
+
+        android:textFontWeight="50"
+
+        android:textStyle="bold"
+        android:elegantTextHeight="true"
+        />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/img"
+        android:id="@+id/space1"
+
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+
+
+        android:id="@+id/img2"
+        android:layout_below="@id/space1"
+
+
+
+
+        android:background="@drawable/env2"
+
+        android:text="ENVIRONMENT"
+        android:textSize="40dp"
+android:textColor="#fff"
+
+        android:textFontWeight="50"
+
+        android:textStyle="bold"
+        android:elegantTextHeight="true"
+
+
+        />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/img2"
+        android:id="@+id/space2"
+
+
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/img3"
+        android:layout_below="@id/space2"
+
+        android:background="@drawable/geology2"
+
+        android:text="GEOLOGY"
+        android:textSize="40dp"
+
+
+        android:textFontWeight="50"
+
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:elegantTextHeight="true"
+        />
+
+        />
+
+
+
+
+</RelativeLayout>

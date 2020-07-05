@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344549020612",
+    "firebase_url": "https://sylvan-triumph-254415.firebaseio.com",
+    "project_id": "sylvan-triumph-254415",
+    "storage_bucket": "sylvan-triumph-254415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344549020612:android:b6da6a29a294ff47368a91",
+        "android_client_info": {
+          "package_name": "com.example.climatenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344549020612-p8q5jergik4qf7oeu4607vb0goop54cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.climatenews",
+            "certificate_hash": "2a300fe6be482a3495216c2c29b43bc8cd15e3b7"
+          }
+        },
+        {
+          "client_id": "344549020612-ehlgpuk2r86c57ppielfpof1ajkqfujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3yOtqmZsgMF1w444GwZaaFiBjZOCX-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344549020612-ehlgpuk2r86c57ppielfpof1ajkqfujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
